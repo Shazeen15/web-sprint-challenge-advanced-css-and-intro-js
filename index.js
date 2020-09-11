@@ -224,6 +224,7 @@ const artists = [
 */
 function getArtistByIndex(array, index) {
     /* code here */
+    
   }
   
   /**
